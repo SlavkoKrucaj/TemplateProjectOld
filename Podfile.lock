@@ -1,0 +1,14 @@
+
+PODS:
+- AFNetworking (1.1.0)
+- SKBindingManager (1.0.0)
+
+DEPENDENCIES:
+- AFNetworking
+- SKBindingManager
+
+SPEC CHECKSUMS:
+  AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+  SKBindingManager: 9652b5a30b6f992ba6d2b94057414490c4fe3700
+
+COCOAPODS: 0.16.1
